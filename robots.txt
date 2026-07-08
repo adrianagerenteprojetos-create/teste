@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /presell.html
+
+Sitemap: https://www.audifort-review.com/sitemap.xml
